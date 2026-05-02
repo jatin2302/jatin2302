@@ -7,7 +7,7 @@ I build productized AI automation and no-code solutions that guarantee 20+ hours
 ### ⚙️ Core Stack & Expertise
 *   **Automation Engines:** n8n, Make.com, Python
 *   **Web & Interfaces:** React, Next.js
-*   **AI Models:** Gemini, OpenAI
+*   **AI Models:** Gemini, OpenAI, Claude
 *   **Operations:** Document AI, Voice AI, HubSpot/Salesforce
 
 ### 📈 What I Build
